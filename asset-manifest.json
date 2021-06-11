@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kritipare/demo-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/kritipare/demo-app/static/js/main.d4bef3c0.chunk.js",
+    "main.js.map": "/kritipare/demo-app/static/js/main.d4bef3c0.chunk.js.map",
+    "runtime-main.js": "/kritipare/demo-app/static/js/runtime-main.3e5346c8.js",
+    "runtime-main.js.map": "/kritipare/demo-app/static/js/runtime-main.3e5346c8.js.map",
+    "static/js/2.473439df.chunk.js": "/kritipare/demo-app/static/js/2.473439df.chunk.js",
+    "static/js/2.473439df.chunk.js.map": "/kritipare/demo-app/static/js/2.473439df.chunk.js.map",
+    "static/js/3.3a9cff0b.chunk.js": "/kritipare/demo-app/static/js/3.3a9cff0b.chunk.js",
+    "static/js/3.3a9cff0b.chunk.js.map": "/kritipare/demo-app/static/js/3.3a9cff0b.chunk.js.map",
+    "index.html": "/kritipare/demo-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/kritipare/demo-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.473439df.chunk.js.LICENSE.txt": "/kritipare/demo-app/static/js/2.473439df.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kritipare/demo-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e5346c8.js",
+    "static/js/2.473439df.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d4bef3c0.chunk.js"
+  ]
+}
